@@ -13,7 +13,7 @@
     <li>It's not suitable for large arrays</li>
     <li>It's less efficient compared to advanced algorithms like QuickSort and MergeSort for large datasets</li>
 </ul>
-<h3>Comparsion Execution Time</h3>
+<h3>Comparison Execution Time</h3>
 <p>
     &nbsp; The InsertSort algorithm has a time complexity of O(n²) in the average and worst cases however, if the array is already sorted, Its time complexity is O(n).
     <br>
